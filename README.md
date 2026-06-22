@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Tirth Savani! 👋
 
-<!--
-**tirthsavani86/tirthsavani86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am a passionate developer interested in building logic-driven applications and games. I recently joined GitHub and am actively sharpening my programming skills.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+* **Languages:** C, (Add other languages here, e.g., C++, Python, Java)
+* **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Current Projects
+* 🔢 **[Guess the Number](https://github.com/tirthsavani86/Guess-the-number):** A terminal-based number guessing game written in C.
+* 🐍 **[Snakes & Ladders](https://github.com/tirthsavani86/Snakes-Ladders):** A classic board game logic implementation.
+* 🪨 **[Rock, Paper, Scissors](https://github.com/tirthsavani86/Rock-paper-Scissors):** A quick player-vs-computer interactive CLI game.
+
+### 📫 How to reach me
+* Email: tirthsavani29@gmail.com
+* LinkedIn: www.linkedin.com/in/tirth-savani-cse
